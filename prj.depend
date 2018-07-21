@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1519567940 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy3\prj\main.cpp
+	"dorm.h"
+
+1519567859 d:\f_work\codeblocks\woks\datastruct\kcsj\copy3\prj\dorm.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1519565000 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy3\prj\test1.cpp
+	"ExeFunction.h"
+
+1519566543 d:\f_work\codeblocks\woks\datastruct\kcsj\copy3\prj\exefunction.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1519785040 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy4\test1.cpp
+	"ExeFunction.h"
+
+1519742685 d:\f_work\codeblocks\woks\datastruct\kcsj\copy4\exefunction.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1519746747 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy4\main.cpp
+	"dorm.h"
+
+1519742669 d:\f_work\codeblocks\woks\datastruct\kcsj\copy4\dorm.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1520054045 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy5\main.cpp
+	"dorm.h"
+
+1520053846 d:\f_work\codeblocks\woks\datastruct\kcsj\copy5\dorm.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1519999020 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy5\test1.cpp
+	"ExeFunction.h"
+
+1520043978 d:\f_work\codeblocks\woks\datastruct\kcsj\copy5\exefunction.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1520061339 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy6\main.cpp
+	"dorm.h"
+
+1520064286 d:\f_work\codeblocks\woks\datastruct\kcsj\copy6\dorm.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1520060599 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy6\test1.cpp
+	"ExeFunction.h"
+
+1520064314 d:\f_work\codeblocks\woks\datastruct\kcsj\copy6\exefunction.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1520302357 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy7\main.cpp
+	"pkzs.h"
+
+1520482208 d:\f_work\codeblocks\woks\datastruct\kcsj\copy7\pkzs.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<algorithm>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1520474635 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy7\func.cpp
+	"ExeFunction.h"
+
+1520474316 d:\f_work\codeblocks\woks\datastruct\kcsj\copy7\exefunction.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1521318339 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy9\main.cpp
+	"pkzs.h"
+
+1520482208 d:\f_work\codeblocks\woks\datastruct\kcsj\copy9\pkzs.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<algorithm>
+	<vector>
+	<time.h>
+	<unistd.h>
+
+1521323066 source:d:\f_work\codeblocks\woks\datastruct\kcsj\copy9\func.cpp
+	"ExeFunction.h"
+
+1520482215 d:\f_work\codeblocks\woks\datastruct\kcsj\copy9\exefunction.h
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<cstring>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<algorithm>
+	<vector>
+	<time.h>
+	<unistd.h>
+
